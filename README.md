@@ -1,5 +1,9 @@
 ## <h1 align="center">👋 Hi, I’m Ali </h1>
-
+      
+      Full Stack Developer
+ <em>      
+  "Transforming ideas into innovative full-stack web solutions, one pixel at a time."   
+ </em>
 <!---
 - 👀 I’m interested in getting into new 
 - 🌱 I’m currently learning ...
