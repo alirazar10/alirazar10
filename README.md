@@ -1,4 +1,4 @@
-## <h1 align="center">👋 Hi, I’m @alirazar10 </h1>
+## <h1 align="center">👋 Hi, I’m Ali </h1>
 
 <!---
 - 👀 I’m interested in getting into new 
