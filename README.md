@@ -1,9 +1,11 @@
 ## <h1 align="center">👋 Hi, I’m Ali </h1>
       
       Full Stack Developer
+
  <em>      
-  "Transforming ideas into innovative full-stack web solutions, one pixel at a time."   
+ "Transforming ideas into innovative full-stack web solutions, one pixel at a time."   
  </em>
+ 
 <!---
 - 👀 I’m interested in getting into new 
 - 🌱 I’m currently learning ...
@@ -13,9 +15,10 @@
 alirazar10/alirazar10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## How to reach me 
+
+# How to reach me 
    <b></b> aliraza.r10@gmail.com
-## 🌐 You can join me on social media:
+# 🌐 You can join me on social media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aliraza.r01)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-r10/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5625314) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AlirazaR10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliraza.r10)
 
 # 💻 Tech Stack:
