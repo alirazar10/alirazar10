@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # How to reach me 
-Visit my portfolio
+Visit my portfolio:
       [imali.dev](https://imali.dev/)
 \
 Email: aliraza.r10@gmail.com
